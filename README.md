@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm ~Ven 🍃</h1>
 
-<!--
-**Surperior/Surperior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
 
-Here are some ideas to get you started:
+I am building stuff that may or may not be useful whatsoever. I enjoy diving into areas and things I dont know yet. Also a huge fan of Pokémon.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### How to reach me
+
+- Discord: _surperior
+- Instagram: @_surperior
+- Telegram: @GiratinaSupremacy
+
+### Tech I use
+
+- **Languages:** Python · Java \ JavaScript · C++ · PHP · SQL
+- **DevOps:** Docker · Azure · Ansible · GitHub Actions
+- **Data**: SQL Server · Oracle · MongoDB · MySQL · SQLite · PostgreSQL
+
+Fun fact: I'm also drawing and making simple 2D animations.
