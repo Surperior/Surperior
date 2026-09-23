@@ -7,12 +7,12 @@ I am building stuff that may or may not be useful whatsoever. I enjoy diving int
 ### How to reach me
 
 - Discord: _surperior
-- Instagram: @_surperior
-- Telegram: @GiratinaSupremacy
+- Instagram: [@_surperior](https://www.instagram.com/_surperior)
+- Telegram: [@GiratinaSupremacy](https://t.me/GiratinaSupremacy)
 
 ### Tech I use
 
-- **Languages:** Python · Java \ JavaScript · C++ · PHP · SQL
+- **Languages:** Python · C++ · PHP · Rust · SQL · HTML · CSS · Java \ JavaScript
 - **DevOps:** Docker · Azure · Ansible · GitHub Actions
 - **Data**: SQL Server · Oracle · MongoDB · MySQL · SQLite · PostgreSQL
 
