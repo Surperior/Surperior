@@ -12,8 +12,8 @@ I am building stuff that may or may not be useful whatsoever. I enjoy diving int
 
 ### Tech I use
 
-- **Languages:** Python · C++ · PHP · Rust · SQL · HTML · CSS · Java \ JavaScript
+- **Languages & Frameworks:** Python · C++ · PHP · Rust · SQL · HTML · CSS · Java \ JavaScript · FastAPI
 - **DevOps:** Docker · Azure · Ansible · GitHub Actions
 - **Data**: SQL Server · Oracle · MongoDB · MySQL · SQLite · PostgreSQL
 
-Fun fact: I'm also drawing and making simple 2D animations.
+Fun fact: I'm also drawing, making simple 2D animations and music.
