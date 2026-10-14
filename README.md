@@ -17,3 +17,9 @@ I am building stuff that may or may not be useful whatsoever. I enjoy diving int
 - **Data**: SQL Server · Oracle · MongoDB · MySQL · SQLite · PostgreSQL
 
 Fun fact: I'm also drawing, making simple 2D animations and music.
+
+<p align="center">
+  <a href="https://pokemon.fandom.com/wiki/Giratina">
+    <img src="487.png" alt="My favourite Ghost-type">
+  </a>
+</p>
